@@ -29,6 +29,7 @@ body {
       rgba(24, 120, 175, 0.9)
     ),
     url("background.jpg");
+  background-size: cover;
 }
 
 .first-heading {
